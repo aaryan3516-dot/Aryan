@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently learning c++ and working python and AIML and i was learned c programing and python language 
+🔭 I'm currently working on<br>• Python projects and AI/ML fundamentals<br>• Building my GitHub portfolio<br>👯 I'm looking to collaborate on<br>• Beginner-friendly Open Source projects<br>• Python and AI/ML applications<br>• Hackathons and innovative tech projects<br>🤝 I'm looking for help with<br>• Advanced Machine Learning concepts<br>• Open Source contribution best practices<br>• Backend development and system design<br>🌱 I'm currently learning<br>• Python Programming<br>• Machine Learning & Artificial Intelligence<br>• Git, GitHub and Open Source Development<br>• Data Structures & Algorithms<br>💬 Ask me about<br>• Python Basics<br>• Git & GitHub<br>• AI/ML Learning Resources<br>• Open Source for Beginners<br>⚡ Fun fact<br>• My favorite data structure is the linked list—because it keeps things connected<br>
 
 
 ## 🌐 Socials:
